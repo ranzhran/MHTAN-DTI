@@ -22,7 +22,7 @@ The preprocessed Luo et al. dataset is available at -> https://cstr.cn/31253.11.
 
 ## Usage
 
-1. Create `checkpoint/` and `data/` directories
-2. Download the dataset from the section above to `data/`
+1. Create `checkpoint/` and `DTI_data/` directories
+2. Download the dataset from the section above to `DTI_data/`
 3. Execute the following command from the project home directory to train and test:
     * `python run_DTI.py`
